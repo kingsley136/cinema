@@ -1386,6 +1386,7 @@ body.search-open #socialIcons #link-search {
 	vertical-align: baseline;
 	position: relative;
 	top: -1px;
+	line-height: 2;
 }
 .post-video:hover,
 .videoLink:hover {
