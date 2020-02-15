@@ -44,6 +44,9 @@
     	margin: -20px 0 0 -20px;
     	width: 40px;
     }
+	.videoLink i {
+		margin-top: 25%;
+	}
     
     
     /*--POST NAVIGATION--*/
